@@ -99,12 +99,6 @@
 
             <dependency>
                 <groupId>org.simplericity.jettyconsole</groupId>
-                <artifactId>jetty-console-ajp-plugin</artifactId>
-                <version>${project.version}</version>
-            </dependency>
-
-            <dependency>
-                <groupId>org.simplericity.jettyconsole</groupId>
                 <artifactId>jetty-console-jsp-plugin</artifactId>
                 <version>${project.version}</version>
             </dependency>
